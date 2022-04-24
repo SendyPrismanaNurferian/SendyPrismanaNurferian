@@ -1,4 +1,6 @@
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
+<h2 align="center">A passionate developer from Indonesia👌🏻</h2>
+<image align="right" alt="Yoi" width="400" src="D:\Foto\Berkas Editing\Header Twitter Holi Natal Hijau.gif">
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
@@ -6,6 +8,10 @@
 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyprismananurferian&label=Profile%20views&color=0e75b6&style=flat" alt="sendyprismananurferian" /> </p>
+    
+<p align="left"> <a href="https://twitter.com/sense1npa1" target="blank"><img src="https://img.shields.io/twitter/follow/sense1npa1?logo=twitter&style=for-the-badge" alt="sense1npa1" /></a> </p>
+    
 ### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
@@ -18,6 +24,16 @@
 - ⚡ Fun fact: I'm have a twins brother
 
 <br />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sense1npa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sense1npa1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sendy prismana nurferian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sendy prismana nurferian" height="30" width="40" /></a>
+<a href="https://fb.com/sendy prisnur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sendy prisnur" height="30" width="40" /></a>
+<a href="https://instagram.com/@sendyprisma_11 and sendprism_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sendyprisma_11 and sendprism_11" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sendy prismana nurferian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sendy prismana nurferian" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sendy_prismana_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sendy_prismana_n" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
