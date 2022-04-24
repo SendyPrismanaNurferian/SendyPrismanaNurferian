@@ -90,8 +90,6 @@ No activity tracked
 
 <!--..-->
 
-  
- 
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SendyPrismanaNurferian&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/SendyPrismanaNurferian/github-readme-activity-graph)
  
  <!--[Sendy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SendyPrismanaNurferian&theme=xcode)>
