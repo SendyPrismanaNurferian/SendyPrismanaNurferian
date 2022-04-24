@@ -6,17 +6,18 @@
 
 </p>
 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- 🔭 I’m studying on Sepuluh Nopember Institute of Techology
+- 📫 How to reach me in DM IG or You can Email Me 
+- ✍ You can find my projects here 👍🏻
+- 🔭 I’m currently working on my life time.
+- 🌱 I’m currently learning c++, python, javascript and others.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm have a twins brother
 
-
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Talk with me in my Linkedin:
+[<img align="left" alt="Sendy Prismana Nurferian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -45,19 +46,18 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SendyPrismanaNurferian&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[website]: https://sendyprisma11.blogspot.com/
+[youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
+[instagram]:https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
+[linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
