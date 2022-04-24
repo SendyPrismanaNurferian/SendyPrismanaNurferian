@@ -6,10 +6,10 @@
 
 </p>
 
-- 🔭 I’m currently studying on Sepuluh Nopember Institute of Techology
+- 🔭 I’m studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
 - ✍ You can find my projects here 👍🏻
-- 🔭 I’m currently working on my first book.
+- 🔭 I’m currently working on my life time.
 - 🌱 I’m currently learning c++, python, javascript and others.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -45,15 +45,11 @@
   <img align="left" alt="Sendy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SendyPrismanaNurferian&show_icons=true&hide_border=true" />
 
 </details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Sendy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
-
-</details>
-
 [website/blog]: https://sendyprisma11.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
 [instagram]: https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
 [linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Sendy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
