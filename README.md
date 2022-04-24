@@ -44,14 +44,14 @@
 
   <img align="left" alt="Sendy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SendyPrismanaNurferian&show_icons=true&hide_border=true" />
 
-</details>
-[website/blog]: https://sendyprisma11.blogspot.com/
-[youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
-[instagram]: https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
-[linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
-
 <details>
  <summary>:zap: Most Used Languages</summary>
 
 </details>
 <img align="left" alt="Sendy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
+
+</details>
+[website/blog]: https://sendyprisma11.blogspot.com/
+[youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
+[instagram]: https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
+[linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
