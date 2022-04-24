@@ -3,7 +3,6 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 - 🔭 I’m currently studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
 - ✍ You can find my projects here 👍🏻
