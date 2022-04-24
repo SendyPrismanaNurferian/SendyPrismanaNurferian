@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
+
 ### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
@@ -12,7 +13,7 @@
 - 🔭 I’m currently working on my life time.
 - 🌱 I’m currently learning c++, python, javascript and others.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm have a twins brother
 
