@@ -6,7 +6,7 @@
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Computer+Engineering+in+ITS+Open-Source;Learning+In+Public;Humble+with+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </h3>
 
