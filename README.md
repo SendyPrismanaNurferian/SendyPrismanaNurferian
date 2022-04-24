@@ -16,9 +16,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm have a twins brother
 
-### Talk with me in my Linkedin:
-[<img align="left" alt="Sendy Prismana Nurferian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
