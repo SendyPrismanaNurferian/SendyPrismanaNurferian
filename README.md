@@ -1,6 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/84496427/164956923-a34217c3-f481-4934-a975-2fcc0746749a.gif)
+
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-<image align="right" alt="Yoi" width="400" src="D:\Foto\Berkas Editing\Header Twitter Holi Natal Hijau.gif">
+<image align="right" alt="Yoi" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
