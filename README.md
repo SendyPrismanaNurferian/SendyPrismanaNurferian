@@ -4,7 +4,7 @@
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
 <image align="right" alt="Yoi" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">
+<h3 align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=+Computer+Engineering+in+ITS+Open-Source;Learning+In+Public;Humble+with+Others;Nice+To+Meet+You+...&center=true"></a>
 
