@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/84496427/164956923-a34217c3-f481-4934-a975-2fcc0746749a.gif)
+![MasterHead](https://user-images.githubusercontent.com/84496427/164956923-a34217c3-f481-4934-a975-2fcc0746749a.gif)
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
