@@ -45,7 +45,6 @@
   <img align="left" alt="Sendy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SendyPrismanaNurferian&show_icons=true&hide_border=true" />
 
 </details>
-<details>
 [website/blog]: https://sendyprisma11.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
 [instagram]: https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
