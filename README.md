@@ -51,9 +51,6 @@
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
-    
-### Coding Stats
-<!--START_SECTION:waka-->
 
 </details>
 
@@ -61,3 +58,21 @@
 [youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
 [instagram]:https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
 [linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
+    
+### Coding Stats
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
+<!--..-->
+
+  
+ 
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mitul3737&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ <!--[Sendy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SendyPrismanaNurferian&theme=xcode)>
