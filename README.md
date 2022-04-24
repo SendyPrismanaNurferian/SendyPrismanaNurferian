@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-
+### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
 - ✍ You can find my projects here 👍🏻
@@ -51,6 +51,9 @@
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SendyPrismanaNurferian" />
+    
+### Coding Stats
+<!--START_SECTION:waka-->
 
 </details>
 
