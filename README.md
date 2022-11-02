@@ -26,8 +26,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm have a twins brother and I'm have dream to make happy my family
 
-### Spotify Playing 🎧
-src="https://open.spotify.com/user/jbegnu1ttnxxl4qrimn7dvmym" 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jbegnu1ttnxxl4qrimn7dvmym&unique={true|1|on|yes})
 
 <br />
 
