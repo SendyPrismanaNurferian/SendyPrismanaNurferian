@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-<image align="right" alt="Yoi" width="400" height="360" width="480" frameBorder="0" src="<iframe src="[https://livesensei.media/ventes-la-prospection-massive/](https://tenor.com/view/programmer-gif-19019116)" </a></p>
+<image align="right" alt="Yoi"<div class="tenor-gif-embed" data-postid="19019116" data-share-method="host" data-aspect-ratio="1.59204" data-width="100%"><a href="https://tenor.com/view/programmer-gif-19019116">Programmer GIF</a>from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
