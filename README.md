@@ -1,8 +1,9 @@
-![MasterHead]()
+![Header Twitter Holi Natal Hijau](https://user-images.githubusercontent.com/84496427/199561242-e31afe84-cb2d-4adc-9ba8-ef1c5f362939.gif)
+
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-![image.png]("https://raw.githubusercontent.com/andreystarkov/animejs-svg-experiment/master/animation.gif")
+![](https://github.com/README.md/https://tenor.com/view/programmer-gif-19019116)
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
