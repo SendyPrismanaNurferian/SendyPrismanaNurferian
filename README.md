@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I'm have a twins brother and I'm have dream to make happy my family
 
 ### Spotify Playing 🎧
-src="https://open.spotify.com/user/jbegnu1ttnxxl4qrimn7dvmym" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"
+src="https://open.spotify.com/user/jbegnu1ttnxxl4qrimn7dvmym" 
 
 <br />
 
