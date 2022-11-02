@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/84496427/164956923-a34217c3-f481-4934-a975-2fcc0746749a.gif)
+![MasterHead](https://raw.githubusercontent.com/andreystarkov/animejs-svg-experiment/master/animation.gif)
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
@@ -17,13 +17,13 @@
 ### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
 - 📫 How to reach me in DM IG or You can Email Me 
-- ✍ You can find my projects here 👍🏻
+- ✍ You can find my projects here and enjoy it!👍🏻
 - 🔭 I’m currently working on my life time.
-- 🌱 I’m currently learning c++, python, javascript and others.
+- 🌱 I’m currently learning c++ or c, python, javascript and others.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm have a twins brother
+- ⚡ Fun fact: I'm have a twins brother and I'm have dream to make happy my family
 
 <br />
 
