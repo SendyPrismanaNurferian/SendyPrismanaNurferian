@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-<image align="right" alt="Yoi" width="400" src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
+<image align="right" alt="Yoi" width="400" height="360" width="480" frameBorder="0" src="<iframe src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw08Pckkjr_Y2ozBG7l_LOeF&ust=1667494776435000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDMj6H8j_sCFQAAAAAdAAAAABAE" </a></p>">
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
