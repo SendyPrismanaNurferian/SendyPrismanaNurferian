@@ -1,8 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/andreystarkov/animejs-svg-experiment/master/animation.gif)
+![MasterHead]()
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-<p image align="right" alt="Yoi" inflane src="https://tenor.com/brXT6.gif"></p>
+![image.png]("https://raw.githubusercontent.com/andreystarkov/animejs-svg-experiment/master/animation.gif")
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
