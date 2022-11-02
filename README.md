@@ -28,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://sendy-prismana-nurferian-spotify-695htpwrj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jbegnu1ttnxxl4qrimn7dvmym)
+[<img src="https://sendy-prismana-nurferian-spotify-695htpwrj.vercel.app/" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/jbegnu1ttnxxl4qrimn7dvmym)
 
 <br />
 
