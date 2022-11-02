@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-<image align="right" alt="Yoi" width="400" height="360" width="480" frameBorder="0" src="<iframe src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" </a></p>
+<image align="right" alt="Yoi" width="400" height="360" width="480" frameBorder="0" src="<iframe src="https://livesensei.media/ventes-la-prospection-massive/" </a></p>
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
