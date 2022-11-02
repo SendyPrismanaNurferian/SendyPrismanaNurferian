@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello World <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Sendy Prismana 
 <h2 align="center">A passionate developer from Indonesia👌🏻</h2>
-![](https://github.com/README.md/https://tenor.com/view/programmer-gif-19019116)
+![programmer](https://user-images.githubusercontent.com/84496427/199562444-b65bee68-c570-47c3-aaec-3840f326aa2b.gif)
 
 <h3 align="left">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
