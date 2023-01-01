@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyprismananurferian&label=Profile%20views&color=0e75b6&style=flat" alt="sendyprismananurferian" /> </p>
     
-<p align="left"> <a href="https://twitter.com/sense1npa1" target="blank"><img src="https://img.shields.io/twitter/follow/sense1npa1?logo=twitter&style=for-the-badge" alt="sense1npa1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mase_nd11" target="blank"><img src="https://img.shields.io/twitter/follow/sense1npa1?logo=twitter&style=for-the-badge" alt="mase_nd11" /></a> </p>
     
 ### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
