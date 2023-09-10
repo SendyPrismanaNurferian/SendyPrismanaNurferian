@@ -79,7 +79,7 @@
 
 [website]: https://sendyprisma11.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
-[instagram]:https://www.instagram.com/sendyprisma_11/https://www.instagram.com/masend11/
+[instagram]:https://www.instagram.com/sendyprisma_11/
 [linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
     
 ### Coding Stats
