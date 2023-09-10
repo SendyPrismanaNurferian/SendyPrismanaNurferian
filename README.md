@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sendyprismananurferian&label=Profile%20views&color=0e75b6&style=flat" alt="sendyprismananurferian" /> </p>
     
-<p align="left"> <a href="https://instagram.com/sendyprisma_11" target="blank"><img src="https://img.shields.io/instagram/follow/sendyprisma_11?logo=instagram&style=for-the-badge" alt="sendyprisma_11" /></a> </p>
+
     
 ### About Me 🚀
 - 🔭 I’m studying on Sepuluh Nopember Institute of Techology
@@ -79,7 +79,7 @@
 
 [website]: https://sendyprisma11.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UC-4Pt-SKObwRF0cAWZqgcjA
-[instagram]:https://www.instagram.com/sendyprisma_11/https://www.instagram.com/sendprism_11/
+[instagram]:https://www.instagram.com/sendyprisma_11/https://www.instagram.com/masend11/
 [linkedin]: https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/
     
 ### Coding Stats
